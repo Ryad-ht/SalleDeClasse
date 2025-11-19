@@ -2,17 +2,6 @@
 
 **Projet final - Master Data & AI**
 
----
-
-## 👥 Membres du groupe
-
-- **[Nom Prénom 1]** - [Email]
-- **[Nom Prénom 2]** - [Email]
-- **[Nom Prénom 3]** - [Email]
-- **[Nom Prénom 4]** - [Email] *(optionnel)*
-
----
-
 ## 📋 Description du projet
 
 Application console en Python permettant à une équipe de créer, gérer et optimiser un emploi du temps collectif.
@@ -230,7 +219,5 @@ Projet réalisé dans le cadre du Master Data & AI - LiveCampus
 © 2024 - Tous droits réservés
 
 ---
-
-## 📞 Contact
 
 Pour toute question concernant ce projet, contactez les membres du groupe via leurs emails respectifs.
