@@ -1,0 +1,5 @@
+# Requirements pour le Gestionnaire de Planning Partagé
+# Aucune dépendance externe requise
+# Le programme utilise uniquement les bibliothèques standard de Python 3
+
+# Python 3.7+ requis
